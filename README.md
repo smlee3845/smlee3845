@@ -38,10 +38,10 @@ Here are some tools and technologies I work with:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 ![smlee3845's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smlee3845&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smlee3845&layout=compact&theme=radical)
+
 
 ---
 

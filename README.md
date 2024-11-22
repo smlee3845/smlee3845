@@ -41,7 +41,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="https://smlee3845.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://yermi.tistory.com">
@@ -60,7 +60,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=smlee3845)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>

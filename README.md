@@ -21,11 +21,6 @@ Here are some tools and technologies I work with:
 - **Tech Stack**: Mention the key technologies used.
 - **Highlights**: Add a standout feature or result achieved.
 
-### [🔗 Project Name 2](https://github.com/smlee3845/project2)
-- **Description**: Brief and clear description here.
-- **Tech Stack**: Include relevant tools and frameworks.
-- **Highlights**: Key achievements of the project.
-
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -37,9 +32,8 @@ Here are some tools and technologies I work with:
 
 ## 💬 Let's Connect!
 
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio.com)  
-- 💼 LinkedIn: [smlee3845](https://www.linkedin.com/in/smlee3845/)  
+- ✉️ Email: [smlee3845@gmail.com](mailto:smlee3845@gmail.com)  
+
 
 ---
 

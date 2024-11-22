@@ -1,6 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmlee3845&count_bg=%233DC879&title_bg=%239C60CF&icon=powerbi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <div align=left>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2smlee3845)](https://hits.seeyoufarm.com) 	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmlee3845&count_bg=%233DC879&title_bg=%239C60CF&icon=powerbi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
 <img src="https://capsule-render.vercel.app/api?type=모양&color=&height=3&section=header&text=텍스트&fontSize=10" />
 

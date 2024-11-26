@@ -48,7 +48,6 @@ Here are some tools and technologies I work with:
 ## 💬 Let's Connect!
 
 - Email: [smlee3845@gmail.com](mailto:smlee3845@gmail.com)
-- Phone: 010-4487-3303  
 
 
 ---
